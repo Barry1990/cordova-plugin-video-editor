@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    implementation 'com.github.ffMathy:android-transcoder:v4'
+    implementation 'com.github.Barry1990:android-transcoder:v4'
 }
 
 android {
