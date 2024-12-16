@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    implementation 'com.github.Barry1990:android-transcoder:v4'
+    implementation 'com.github.AlexMiniApps:android-transcoder:56f5ec8821'
 }
 
 android {
