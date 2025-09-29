@@ -2,7 +2,7 @@
 //  VideoEditor.m
 //
 //  Created by Josh Bavari on 01-14-2014
-//  Modified by Ross Martin on 01-29-2015
+//  Modified by Barry on 09-29-2025
 //
 
 #import <Cordova/CDV.h>
